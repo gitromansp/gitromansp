@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @gitromansp
+- 👀 I’m interested in Fullstack-development.
+- 🌱 I’m currently learning Python, JS, HTML, CSS and so on...
